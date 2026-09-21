@@ -6,7 +6,8 @@
 
 * #                  A 9 V DC LED indicator circuit is a simple electronic circuit used to provide a visual indication of the presence of a DC power supply. The circuit uses an LED connected in series with a current-limiting resistor to ensure safe operation. It is assembled on a solderless breadboard for easy testing and prototyping. 
 
-* # 2\. OBJECTIVE                          To design and implement a simple 9 V DC LED indicator circuit using a current-limiting resistor on a solderless breadboard.
+* # 2\. OBJECTIVE
+   To design and implement a simple 9 V DC LED indicator circuit using a current-limiting resistor on a solderless breadboard.
 
 * #    3\. COMPONENTS REQUIRED
 
@@ -19,7 +20,7 @@
 
 
 * 4.CIRCUIT CONFIGURATION  
-*                The resistor and LED are connected in series. The resistor limits the current through the LED and protects it from excessive current.  
+*  The resistor and LED are connected in series. The resistor limits the current through the LED and protects it from excessive current.  
 *   
 *   
   5WORKING PRINCIPLE  
@@ -27,7 +28,7 @@
 
 * ### 6\. SCHEMATIC DIAGRAM
 
-*                The schematic diagram of the 9 V DC LED indicator circuit is provided below, illustrating the electrical connections between the battery, current-limiting resistor, and LED.  
+*  The schematic diagram of the 9 V DC LED indicator circuit is provided below, illustrating the electrical connections between the battery, current-limiting resistor, and LED.  
 * ![][image1]  
     
   7.CONSTRUCTION  
@@ -46,7 +47,7 @@
   * Ensure there are no short circuits.  
     ![][image3]
 
-            9.RESULT  
+    9.RESULT  
                  The 9 V DC LED indicator circuit was successfully assembled and tested on a   
              solderless breadboard. The LED provides a clear visual indication of the presence of                 
              the DC supply     
